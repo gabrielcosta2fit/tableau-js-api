@@ -10,7 +10,7 @@ Requirements:
 - npm (Node.js package manager)
 
 ```bash
-npm install tableau-js-api
+npm install tableau-js-api-2
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ app.component.ts:
 
 ```javascript
   import { Component, OnInit } from '@angular/core';
-  import * as Tableau from 'tableau-js-api';
+  import * as Tableau from 'tableau-js-api-2';
 
   @Component({
     selector: 'app-root',
